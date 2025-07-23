@@ -2,7 +2,6 @@
   "compilerOptions": {
     "composite": false,
     "declaration": true,
-    "declation": true,
     "declarationMap": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
