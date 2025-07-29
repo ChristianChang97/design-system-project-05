@@ -1,3 +1,5 @@
+import "../styles/tokens-grid.css";
+
 interface TokensGridProps {
   tokens: Record<string, string>;
   hasRemValue?: boolean;
