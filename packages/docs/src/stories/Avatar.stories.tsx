@@ -10,6 +10,13 @@ export default {
     src: "https://avatars.githubusercontent.com/u/61232440?v=4",
     alt: "Christian",
   },
+  argTypes: {
+    src: {
+      control: {
+        type: "text",
+      },
+    },
+  },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
