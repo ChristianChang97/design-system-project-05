@@ -20,3 +20,5 @@ export const CustomTag: StoryObj<TextProps> = {
     as: "strong",
   },
 };
+
+Text.displayName = "Text";

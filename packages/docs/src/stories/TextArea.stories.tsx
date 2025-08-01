@@ -22,3 +22,5 @@ export default {
 } as Meta<TextAreaProps>;
 
 export const Primary: StoryObj<TextAreaProps> = {};
+
+TextArea.displayName = "TextArea";

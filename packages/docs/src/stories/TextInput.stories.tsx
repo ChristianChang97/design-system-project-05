@@ -38,3 +38,5 @@ export const WithPrefix: StoryObj<TextInputProps> = {
     prefix: "cal.com/",
   },
 };
+
+TextInput.displayName = "TextInput";

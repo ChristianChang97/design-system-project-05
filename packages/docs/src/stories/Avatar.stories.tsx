@@ -19,3 +19,5 @@ export const WithFallback: StoryObj<AvatarProps> = {
     src: undefined,
   },
 };
+
+Avatar.displayName = "Avatar";
