@@ -5,6 +5,7 @@ import type { AvatarProps } from "@ignite-ui/react";
 export default {
   title: "Data display/Avatar",
   component: Avatar,
+  tags: ["autodocs"],
   args: {
     src: "https://avatars.githubusercontent.com/u/61232440?v=4",
     alt: "Christian",

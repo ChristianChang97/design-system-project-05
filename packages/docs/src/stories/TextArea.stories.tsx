@@ -4,6 +4,7 @@ import type { Meta, StoryObj } from "@storybook/react-vite";
 export default {
   title: "Form/Text Area",
   component: TextArea,
+  tags: ["autodocs"],
   args: {},
   decorators: [
     (Story) => {

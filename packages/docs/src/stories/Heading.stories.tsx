@@ -4,6 +4,7 @@ import type { Meta, StoryObj } from "@storybook/react-vite";
 export default {
   title: "Typography/Heading",
   component: Heading,
+  tags: ["autodocs"],
   args: {
     children: "Custom title",
   },
