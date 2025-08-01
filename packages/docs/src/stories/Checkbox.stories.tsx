@@ -9,7 +9,10 @@ export default {
   decorators: [
     (Story) => {
       return (
-        <Box>
+        <Box
+          as="label"
+          css={{ display: "flex", flexDirection: "row", gap: "$2" }}
+        >
           {Story()}
           <Text size="sm">Accept terms of use</Text>
         </Box>
