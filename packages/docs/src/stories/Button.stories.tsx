@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react-vite";
-import { Button } from "@ignite-ui/react";
-import type { ButtonProps } from "@ignite-ui/react";
+import { Button } from "@chris-ignite-ui/react";
+import type { ButtonProps } from "@chris-ignite-ui/react";
 import { ArrowRight } from "phosphor-react";
 
 export default {

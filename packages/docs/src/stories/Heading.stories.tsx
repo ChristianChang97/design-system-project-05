@@ -1,4 +1,4 @@
-import { Heading, type HeadingProps } from "@ignite-ui/react";
+import { Heading, type HeadingProps } from "@chris-ignite-ui/react";
 import type { Meta, StoryObj } from "@storybook/react-vite";
 
 export default {

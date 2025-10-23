@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@chris-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -16,8 +16,8 @@
   "license": "MIT",
   "devDependencies": {
     "@chromatic-com/storybook": "^4.0.1",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@chris-ignite-ui/tokens": "*",
+    "@chris-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^9.0.18",
     "@storybook/addon-docs": "^9.0.18",
     "@storybook/addon-vitest": "^9.0.18",

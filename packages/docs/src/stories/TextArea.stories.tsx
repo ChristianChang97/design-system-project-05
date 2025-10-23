@@ -1,4 +1,9 @@
-import { Box, Text, TextArea, type TextAreaProps } from "@ignite-ui/react";
+import {
+  Box,
+  Text,
+  TextArea,
+  type TextAreaProps,
+} from "@chris-ignite-ui/react";
 import type { Meta, StoryObj } from "@storybook/react-vite";
 
 export default {
