@@ -1,6 +1,6 @@
 {
   "name": "@chris-ignite-ui/tokens",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "- [ ] Text\r - [ ] Heading\r - [ ] Box\r - [ ] Button\r - [ ] TextInput\r - [ ] TextArea\r - [ ] Checkbox\r - [ ] Avatar\r - [ ] MultiStep",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
