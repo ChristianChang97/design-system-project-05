@@ -1,3 +1,0 @@
-import{j as t}from"./index-B_wR0rbW.js";import{useMDXComponents as s}from"./index-D3whHmTR.js";import{M as i}from"./blocks-DEsdWrLR.js";import{T as r}from"./TokensGrid-D4T16-nY.js";import{l as m}from"./index-FQKkaq7x.js";import"./iframe-Cfoco_iD.js";import"./index-Vu1fxzP2.js";function o(n){const e={h1:"h1",...s(),...n.components};return t.jsxs(t.Fragment,{children:[t.jsx(i,{title:"Tokens/Line Heights"}),`
-`,t.jsx(e.h1,{id:"line-heights",children:"Line Heights"}),`
-`,t.jsx(r,{tokens:m})]})}function l(n={}){const{wrapper:e}={...s(),...n.components};return e?t.jsx(e,{...n,children:t.jsx(o,{...n})}):o(n)}export{l as default};
